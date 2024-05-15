@@ -1,6 +1,6 @@
 ### boas vindas ao meu perfil😄🎊
 
-Mwu nome é Lucas Guimarães
+Meu nome é Lucas Guimarães
 
   -Estou estudando na [alura](https://www.alura.com.br)
   
